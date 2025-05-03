@@ -1,0 +1,11 @@
+C:\Users\Dell\Source\Repos\Amazon\Amazon.Infrastructure\bin\Debug\net9.0\Amazon.Infrastructure.deps.json
+C:\Users\Dell\Source\Repos\Amazon\Amazon.Infrastructure\bin\Debug\net9.0\Amazon.Infrastructure.dll
+C:\Users\Dell\Source\Repos\Amazon\Amazon.Infrastructure\bin\Debug\net9.0\Amazon.Infrastructure.pdb
+C:\Users\Dell\Source\Repos\Amazon\Amazon.Infrastructure\obj\Debug\net9.0\Amazon.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Source\Repos\Amazon\Amazon.Infrastructure\obj\Debug\net9.0\Amazon.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Dell\Source\Repos\Amazon\Amazon.Infrastructure\obj\Debug\net9.0\Amazon.Infrastructure.AssemblyInfo.cs
+C:\Users\Dell\Source\Repos\Amazon\Amazon.Infrastructure\obj\Debug\net9.0\Amazon.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Source\Repos\Amazon\Amazon.Infrastructure\obj\Debug\net9.0\Amazon.Infrastructure.dll
+C:\Users\Dell\Source\Repos\Amazon\Amazon.Infrastructure\obj\Debug\net9.0\refint\Amazon.Infrastructure.dll
+C:\Users\Dell\Source\Repos\Amazon\Amazon.Infrastructure\obj\Debug\net9.0\Amazon.Infrastructure.pdb
+C:\Users\Dell\Source\Repos\Amazon\Amazon.Infrastructure\obj\Debug\net9.0\ref\Amazon.Infrastructure.dll

@@ -1,0 +1,11 @@
+C:\Users\Dell\Source\Repos\Amazon\Amazon.Core\bin\Debug\net9.0\Amazon.Core.deps.json
+C:\Users\Dell\Source\Repos\Amazon\Amazon.Core\bin\Debug\net9.0\Amazon.Core.dll
+C:\Users\Dell\Source\Repos\Amazon\Amazon.Core\bin\Debug\net9.0\Amazon.Core.pdb
+C:\Users\Dell\Source\Repos\Amazon\Amazon.Core\obj\Debug\net9.0\Amazon.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Source\Repos\Amazon\Amazon.Core\obj\Debug\net9.0\Amazon.Core.AssemblyInfoInputs.cache
+C:\Users\Dell\Source\Repos\Amazon\Amazon.Core\obj\Debug\net9.0\Amazon.Core.AssemblyInfo.cs
+C:\Users\Dell\Source\Repos\Amazon\Amazon.Core\obj\Debug\net9.0\Amazon.Core.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Source\Repos\Amazon\Amazon.Core\obj\Debug\net9.0\Amazon.Core.dll
+C:\Users\Dell\Source\Repos\Amazon\Amazon.Core\obj\Debug\net9.0\refint\Amazon.Core.dll
+C:\Users\Dell\Source\Repos\Amazon\Amazon.Core\obj\Debug\net9.0\Amazon.Core.pdb
+C:\Users\Dell\Source\Repos\Amazon\Amazon.Core\obj\Debug\net9.0\ref\Amazon.Core.dll
